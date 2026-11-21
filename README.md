@@ -2,9 +2,9 @@
 
 **Do not use this on networks you do not own or do not have explicit, written permission to test.**
 
-Capturing PMKIDs and EAPOL handshakes is illegal in most jurisdictions without authorization. This is a tool for lab environments and authorized penetration tests. The author assumes zero liability for misuse. If you point this at your neighbor's router, you're committing a crime. Get permission. Stay legal.
+Capturing PMKIDs and EAPOL handshakes is illegal in most jurisdictions without authorization. This is a tool for lab environments and authorized penetration tests. The author assumes zero liability for misuse. If you point this at your neighbor's router, you're committing a crime. Get permission. Stay legal. And be good boyz&Girlz 
 
-## Usage
+## Usage 🌵
 
 Always run as root. Monitor mode and raw socket operations require it.
 
