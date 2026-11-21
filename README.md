@@ -49,7 +49,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -e .
 ```
-## Run It As Root:
+## Run it with your wifi adapter and root access (sudo)
 ```bash
 sudo python3 Wifi-Sploit.py
 ```
